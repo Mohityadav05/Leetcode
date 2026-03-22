@@ -8,7 +8,6 @@ public:
                 count++;
                 maximum = max(maximum,count);
             }else{
-                
                 count=0;
             }
         }
