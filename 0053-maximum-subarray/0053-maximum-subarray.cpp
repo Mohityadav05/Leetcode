@@ -6,10 +6,7 @@ public:
         for(int val : nums){
             sum+=val;
             maximum=max(maximum,sum);
-            if(sum<0){
-                sum=0;
-            }
-        }
+            
         return maximum;
     }
 };
