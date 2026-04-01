@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Mohityadav05/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Mohityadav05/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/Mohityadav05/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Mohityadav05/Leetcode/tree/main/0069-sqrtx/) | Easy |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Mohityadav05/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0067-add-binary](https://github.com/Mohityadav05/Leetcode/tree/main/0067-add-binary/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/Mohityadav05/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mohityadav05/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Mohityadav05/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
