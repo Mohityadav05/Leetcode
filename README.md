@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Mohityadav05/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mohityadav05/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Mohityadav05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Mohityadav05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Mohityadav05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Mohityadav05/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohityadav05/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Mohityadav05/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Mohityadav05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mohityadav05/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Mohityadav05/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Mohityadav05/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Mohityadav05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Mohityadav05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
