@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Mohityadav05/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Mohityadav05/Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/Mohityadav05/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Mohityadav05/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mohityadav05/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Mohityadav05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Mohityadav05/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Mohityadav05/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Mohityadav05/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Mohityadav05/Leetcode/tree/main/0704-binary-search/) | Easy |
