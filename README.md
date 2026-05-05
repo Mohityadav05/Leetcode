@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohityadav05/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Mohityadav05/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Mohityadav05/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Mohityadav05/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Mohityadav05/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Mohityadav05/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Mohityadav05/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Mohityadav05/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Mohityadav05/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Sorting
