@@ -18,7 +18,7 @@ public:
 
         for(int i = 0; i < piles.size(); i++){
 
-            totalhr += ceil((double)piles[i] / (double)hourly);
+            totalhr += (piles[i] + hourly - 1) / hourly;
         }
 
         return totalhr;
