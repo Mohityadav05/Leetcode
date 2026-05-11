@@ -8,8 +8,6 @@ public:
         while(low <= high) {
 
             int mid = (low + high) / 2;
-
-            // count missing numbers till mid
             int missing = arr[mid] - (mid + 1);
 
             if(missing < k) {
