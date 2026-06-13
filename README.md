@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohityadav05/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Mohityadav05/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Mohityadav05/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Mohityadav05/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/Mohityadav05/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Mohityadav05/Leetcode/tree/main/0069-sqrtx/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Mohityadav05/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Mohityadav05/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Mohityadav05/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/Mohityadav05/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Mohityadav05/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Mohityadav05/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Mohityadav05/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Mohityadav05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mohityadav05/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Mohityadav05/Leetcode/tree/main/0169-majority-element/) | Easy |
