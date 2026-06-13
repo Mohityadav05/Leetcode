@@ -10,17 +10,13 @@ public:
         {'D',500},
         {'M',1000}
        };
-       int i=0;
-       int j=i+1;
        int ans=0;
-       for(int k=0;k<s.length();k++){
-        if(mp[s[i]]<mp[s[j]]){
+       for(int i=0;i<s.length();i++){
+        if(mp[s[i]]<mp[s[i+1]]){
             ans = ans -mp[s[i]];
         }else{
             ans = ans+mp[s[i]];
         }
-        i++;
-        j++;
        } 
        return ans;
     }
