@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Mohityadav05/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Mohityadav05/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Mohityadav05/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Mohityadav05/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Mohityadav05/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Mohityadav05/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Mohityadav05/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Mohityadav05/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
