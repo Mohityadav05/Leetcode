@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohityadav05/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Mohityadav05/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/Mohityadav05/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mohityadav05/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohityadav05/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohityadav05/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohityadav05/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Mohityadav05/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/Mohityadav05/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mohityadav05/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Mohityadav05/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Stack
