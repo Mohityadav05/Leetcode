@@ -1,22 +1,19 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
-    void solve(int index, vector<int>& nums, vector<int>& curr, vector<vector<int>>& ans) {
-        ans.push_back(curr);
-        for (int i = index; i < nums.size(); i++) {
-            curr.push_back(nums[i]);
-            solve(i + 1, nums, curr, ans);
-            curr.pop_back();
+    void getAllSubsets(vector<int>& nums,vector<int>& ans,int i,vector<vector<int>>& allSubsets){
+        if(i==nums.size()){
+            allSubsets.push_back({ans});
+            return;
         }
+        ans.push_back(nums[i]);
+        getAllSubsets(nums,ans,i+1,allSubsets);
+        ans.pop_back();
+        getAllSubsets(nums,ans,i+1,allSubsets);
     }
-
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> curr;
-        solve(0, nums, curr, ans);
-        return ans;
+        vector<vector<int>>allSubsets;
+        vector<int>ans;
+        getAllSubsets(nums,ans,0,allSubsets);
+        return allSubsets;
     }
 };
