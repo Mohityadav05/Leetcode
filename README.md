@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Mohityadav05/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Mohityadav05/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Mohityadav05/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/Mohityadav05/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Mohityadav05/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Mohityadav05/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mohityadav05/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Mohityadav05/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Mohityadav05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Mohityadav05/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/Mohityadav05/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Mohityadav05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Mohityadav05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Mohityadav05/Leetcode/tree/main/0078-subsets/) | Medium |
