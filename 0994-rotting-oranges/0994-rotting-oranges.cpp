@@ -1,9 +1,9 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        int ans = 0;
+        int n=grid.size();
+        int m=grid[0].size();
+        int ans=0;
         vector<vector<bool>>vis(n,vector<bool>(m,false));
         queue<pair<pair<int,int>,int>>q;
         for(int i=0;i<n;i++){
@@ -15,12 +15,11 @@ public:
             }
         }
         while(q.size()>0){
-            int i = q.front().first.first;
-            int j = q.front().first.second;
-            int time = q.front().second;
+            int i=q.front().first.first;
+            int j=q.front().first.second;
+            int time=q.front().second;
             q.pop();
-
-            ans = max(ans,time);
+            ans=max(ans,time);
             if(i-1>=0 && !vis[i-1][j] && grid[i-1][j]==1){
                 q.push({{i-1,j},time+1});
                 vis[i-1][j]=true;
@@ -39,12 +38,12 @@ public:
             }
         }
         for(int i=0;i<n;i++){
-                for(int j=0;j<m;j++){
-                    if(grid[i][j]==1 && !vis[i][j]){
-                        return -1;
-                    }
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==1 && !vis[i][j]){
+                    return -1;
                 }
             }
-            return ans;
+        }
+        return ans;
     }
 };
