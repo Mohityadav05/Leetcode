@@ -1,81 +1,59 @@
 class Solution {
 public:
-    bool isCycleDFS(int src, vector<bool> &vis,
-                    vector<bool> &recpath,
-                    vector<vector<int>>& edges){
-
-        vis[src] = true;
-        recpath[src] = true;
-
-        for(int i=0;i<edges.size();i++){
-            int v = edges[i][0];
-            int u = edges[i][1];
-
-            if(src == u){
-
+    bool isCycledfs(int src,int numCourses,vector<bool>& vis,vector<bool>& recPath,vector<vector<int>>& prerequisites){
+        vis[src]=true;
+        recPath[src]=true;
+        for(int i=0;i<prerequisites.size();i++){
+            int u=prerequisites[i][1];
+            int v=prerequisites[i][0];
+            if(u==src){
                 if(!vis[v]){
-                    if(isCycleDFS(v,vis,recpath,edges)){
+                    if(isCycledfs(v,numCourses,vis,recPath,prerequisites)){
                         return true;
                     }
-                }
-                else if(recpath[v]){
+                }else if(recPath[v]){
                     return true;
                 }
             }
         }
-
-        recpath[src]=false;
+        recPath[src]=false;
         return false;
     }
-
-    void topoOrder(int src,vector<bool> &vis,
-                   stack<int>&s,
-                   vector<vector<int>>& edges){
-
-        vis[src] = true;
-
-        for(int i=0;i<edges.size();i++){
-            int v = edges[i][0];
-            int u = edges[i][1];
-
-            if(src == u){
+    void topoOrder(int src,vector<bool>& vis,stack<int>& s,vector<vector<int>>& prerequisites){
+        vis[src]=true;
+        for(int i=0;i<prerequisites.size();i++){
+            int u=prerequisites[i][1];
+            int v=prerequisites[i][0];
+            if(u==src){
                 if(!vis[v]){
-                    topoOrder(v,vis,s,edges);
+                    topoOrder(v,vis,s,prerequisites);
                 }
             }
         }
-
         s.push(src);
     }
-
-    vector<int> findOrder(int n, vector<vector<int>>& edges) {
-
-        vector<bool> vis(n,false);
-        vector<bool> recpath(n,false);
-        vector<int> ans;
-
-        for(int i=0;i<n;i++){
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<bool>vis(numCourses,false);
+        vector<bool>recPath(numCourses,false);
+        vector<int>ans;
+        for(int i=0;i<numCourses;i++){
             if(!vis[i]){
-                if(isCycleDFS(i,vis,recpath,edges)){
-                    return {};
+                if(isCycledfs(i,numCourses,vis,recPath,prerequisites)){
+                    return ans;
                 }
             }
         }
-
-        stack<int> s;
-        vis.assign(n,false);
-
-        for(int i=0;i<n;i++){
+        stack<int>s;
+        vis.assign(numCourses,false);
+        for(int i=0;i<numCourses;i++){
             if(!vis[i]){
-                topoOrder(i,vis,s,edges);
+                topoOrder(i,vis,s,prerequisites);
             }
         }
-
-        while(!s.empty()){
+        while(s.size()>0){
             ans.push_back(s.top());
             s.pop();
         }
-
         return ans;
     }
 };
