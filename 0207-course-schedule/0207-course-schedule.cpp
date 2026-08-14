@@ -1,30 +1,30 @@
 class Solution {
 public:
-    bool isCycleDfs(int src,vector<bool> &vis,vector<bool> &recPath,vector<vector<int>> &edges){
+    bool isCycleDfs(int src,int numCourses,vector<bool>& vis,vector<bool>& recPath,vector<vector<int>>& prerequisites){
         vis[src]=true;
         recPath[src]=true;
-        for(int i=0;i<edges.size();i++){
-            int v = edges[i][0];
-            int u = edges[i][1];
-            if(u == src){
+        for(int i=0;i<prerequisites.size();i++){
+            int u=prerequisites[i][1];
+            int v=prerequisites[i][0];
+            if(u==src){
                 if(!vis[v]){
-                    if(isCycleDfs(v,vis,recPath,edges)){
+                    if(isCycleDfs(v,numCourses,vis,recPath,prerequisites)){
                         return true;
                     }
-                    }else if(recPath[v]){
-                        return true;
-                    }
+                }else if(recPath[v]){
+                    return true;
                 }
             }
-            recPath[src]=false;
-            return false;
         }
-    bool canFinish(int n, vector<vector<int>>& edges) {
-        vector<bool> vis(n,false);
-        vector<bool> recPath(n,false);
-        for(int i=0;i<n;i++){
+        recPath[src]=false;
+        return false;
+    }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<bool>vis(numCourses,false);
+        vector<bool>recPath(numCourses,false);
+        for(int i=0;i<numCourses;i++){
             if(!vis[i]){
-                if(isCycleDfs(i,vis,recPath,edges)){
+                if(isCycleDfs(i,numCourses,vis,recPath,prerequisites)){
                     return false;
                 }
             }
