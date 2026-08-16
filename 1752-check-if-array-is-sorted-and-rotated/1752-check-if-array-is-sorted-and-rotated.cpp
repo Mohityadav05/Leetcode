@@ -8,8 +8,9 @@ public:
                 count++;
             }
         }
-        if(nums[n-1]>nums[0])
+        if(nums[n-1]>nums[0]){
             count++;
+        }
         return count<=1;
     }
 };
