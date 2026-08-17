@@ -524,4 +524,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Mohityadav05/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Mohityadav05/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
