@@ -1,48 +1,37 @@
 class Solution {
 public:
+    int function(vector<int>& piles, int h, int mid) {
+        long long sum = 0;
 
-    int findMax(vector<int> &piles){
-
-        int maxi = INT_MIN;
-
-        for(int i = 0; i < piles.size(); i++){
-            maxi = max(maxi, piles[i]);
+        for (int val : piles) {
+            sum += (val + mid - 1) / mid;
         }
 
-        return maxi;
-    }
+        if (sum <= h)
+            return 1;
 
-    long long calculateHours(vector<int> &piles, int hourly){
-
-        long long totalhr = 0;
-
-        for(int i = 0; i < piles.size(); i++){
-
-            totalhr += (piles[i] + hourly - 1) / hourly;
-        }
-
-        return totalhr;
+        return 0;
     }
 
     int minEatingSpeed(vector<int>& piles, int h) {
-
         int low = 1;
-        int high = findMax(piles);
+        int high = *max_element(piles.begin(), piles.end());
+        int ans = INT_MAX;
 
-        while(low <= high){
-
+        while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            long long totalhr = calculateHours(piles, mid);
+            int midN = function(piles, h, mid);
 
-            if(totalhr <= h){
+            if (midN == 1) {
+                ans = mid;
                 high = mid - 1;
             }
-            else{
+            else {
                 low = mid + 1;
             }
         }
 
-        return low;
+        return ans;
     }
 };
