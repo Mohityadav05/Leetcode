@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Mohityadav05/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohityadav05/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohityadav05/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohityadav05/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohityadav05/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohityadav05/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Mohityadav05/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Mohityadav05/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mohityadav05/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
