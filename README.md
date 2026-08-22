@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Mohityadav05/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Mohityadav05/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Mohityadav05/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Mohityadav05/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Mohityadav05/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Mohityadav05/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohityadav05/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Mohityadav05/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Mohityadav05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Mohityadav05/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Mohityadav05/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Mohityadav05/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mohityadav05/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Linked List
