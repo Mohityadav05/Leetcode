@@ -25,7 +25,12 @@ public:
             for(int i=0;i<size;i++){
             TreeNode* curr=q.front();
             q.pop();
-            int index=(lefttoright) ? i : (size-1-i);
+            int index;
+            if(lefttoright){
+                index=i;
+            }else{
+                index=size-1-i;
+            }
             row[index]=curr->val;
             if(curr->left != NULL){
                 q.push(curr->left);
