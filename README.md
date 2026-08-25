@@ -581,5 +581,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
