@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Mohityadav05/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohityadav05/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohityadav05/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohityadav05/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohityadav05/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohityadav05/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohityadav05/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mohityadav05/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohityadav05/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohityadav05/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Mohityadav05/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mohityadav05/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohityadav05/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
