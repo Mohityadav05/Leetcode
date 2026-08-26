@@ -604,4 +604,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Mohityadav05/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
