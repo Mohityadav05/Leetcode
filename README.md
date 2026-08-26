@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Mohityadav05/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Mohityadav05/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Mohityadav05/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Mohityadav05/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Mohityadav05/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Mohityadav05/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Mohityadav05/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Mohityadav05/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Mohityadav05/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Mohityadav05/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Mohityadav05/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Mohityadav05/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Mohityadav05/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Mohityadav05/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Mohityadav05/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Mohityadav05/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Mohityadav05/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Mohityadav05/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Mohityadav05/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -623,4 +627,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Mohityadav05/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mohityadav05/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mohityadav05/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
