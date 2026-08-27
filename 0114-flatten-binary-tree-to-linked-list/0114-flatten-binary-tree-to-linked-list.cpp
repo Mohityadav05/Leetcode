@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-public:
+public: 
     TreeNode* nextright=NULL;
     void flatten(TreeNode* root) {
         if(root==NULL){
