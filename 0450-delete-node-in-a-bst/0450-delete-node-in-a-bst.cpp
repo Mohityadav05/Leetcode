@@ -12,8 +12,8 @@
 class Solution {
 public:
     TreeNode* getInorderSuccessor(TreeNode* root){
-        while(root !=NULL && root->left != NULL){
-            root= root->left;
+        while(root != NULL && root->left != NULL){
+            root=root->left;
         }
         return root;
     }
@@ -31,7 +31,7 @@ public:
                 delete root;
                 return temp;
             }else if(root->right==NULL){
-                TreeNode* temp = root->left;
+                TreeNode* temp=root->left;
                 delete root;
                 return temp;
             }else{
