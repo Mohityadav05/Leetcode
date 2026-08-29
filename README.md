@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Mohityadav05/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mohityadav05/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mohityadav05/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Mohityadav05/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Mohityadav05/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Mohityadav05/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mohityadav05/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Mohityadav05/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohityadav05/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Mohityadav05/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohityadav05/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Design
 | Problem Name | Difficulty |
