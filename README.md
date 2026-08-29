@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohityadav05/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohityadav05/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Mohityadav05/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohityadav05/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohityadav05/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Backtracking
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohityadav05/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Mohityadav05/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mohityadav05/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohityadav05/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Mohityadav05/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
