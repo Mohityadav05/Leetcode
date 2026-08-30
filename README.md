@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Mohityadav05/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohityadav05/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mohityadav05/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0402-remove-k-digits](https://github.com/Mohityadav05/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohityadav05/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/Mohityadav05/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Mohityadav05/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohityadav05/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Mohityadav05/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Mohityadav05/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0402-remove-k-digits](https://github.com/Mohityadav05/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mohityadav05/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Mohityadav05/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Mohityadav05/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Mohityadav05/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohityadav05/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -585,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohityadav05/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Mohityadav05/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0402-remove-k-digits](https://github.com/Mohityadav05/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mohityadav05/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mohityadav05/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
