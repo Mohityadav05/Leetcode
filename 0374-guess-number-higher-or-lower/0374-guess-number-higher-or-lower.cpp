@@ -1,16 +1,16 @@
 class Solution {
 public:
-    int picker(int n, int mid, int pick) {
-        if (mid > pick) {
-            return -1;
-        }
-        else if (mid < pick) {
-            return 1;
-        }
-        else {
-            return 0;
-        }
-    }
+    // int picker(int n, int mid, int pick) {
+    //     if (mid > pick) {
+    //         return -1;
+    //     }
+    //     else if (mid < pick) {
+    //         return 1;
+    //     }
+    //     else {
+    //         return 0;
+    //     }
+    // }
 
     int guessNumber(int n) {
         int pick;  // not used
