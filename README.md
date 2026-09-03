@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mohityadav05/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Mohityadav05/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Mohityadav05/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mohityadav05/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Mohityadav05/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Mohityadav05/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Mohityadav05/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Mohityadav05/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mohityadav05/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Mohityadav05/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/Mohityadav05/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Mohityadav05/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
