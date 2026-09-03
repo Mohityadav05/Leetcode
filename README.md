@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Mohityadav05/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/Mohityadav05/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Mohityadav05/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Mohityadav05/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0090-subsets-ii/) | Medium |
