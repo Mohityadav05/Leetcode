@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Mohityadav05/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohityadav05/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohityadav05/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Mohityadav05/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Mohityadav05/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohityadav05/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Mohityadav05/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohityadav05/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Mohityadav05/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mohityadav05/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Mohityadav05/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohityadav05/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -490,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohityadav05/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0802-find-eventual-safe-states](https://github.com/Mohityadav05/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2596-check-knight-tour-configuration](https://github.com/Mohityadav05/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -588,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Mohityadav05/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Mohityadav05/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Mohityadav05/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
