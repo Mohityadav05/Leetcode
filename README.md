@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohityadav05/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Mohityadav05/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohityadav05/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Mohityadav05/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohityadav05/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohityadav05/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Mohityadav05/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Mohityadav05/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
