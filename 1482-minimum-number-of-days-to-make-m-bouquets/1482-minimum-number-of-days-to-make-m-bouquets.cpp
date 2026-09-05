@@ -1,35 +1,40 @@
 class Solution {
 public:
-    int function(int mid,vector<int>& bloomDay,int m,int k){
+    int function(vector<int>& bloomDay, int m, int k,int mid){
+        int no_boque=0;
         int count=0;
-        int noboque=0;
+        int val=m*k;
         for(int i=0;i<bloomDay.size();i++){
             if(bloomDay[i]<=mid){
                 count++;
             }else{
-                noboque += count/k;
+                no_boque += count/k;
                 count=0;
             }
         }
-        noboque += count / k; 
-        return noboque >= m;
+        no_boque += count/k;
+        if(no_boque>=m){
+            return mid;
+        }
+        return -1;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        long long val = 1LL * m * k;
-
-        // not enough flowers
-        if(val > bloomDay.size()) return -1;
+        if((long long)m * k > bloomDay.size()) {
+            return -1;
+        }
         int low=*min_element(bloomDay.begin(),bloomDay.end());
         int high=*max_element(bloomDay.begin(),bloomDay.end());
+        int ans=high;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int midN=function(mid,bloomDay,m,k);
-            if(midN){
+            int midN=function(bloomDay,m,k,mid);
+            if(midN!=-1){
+                ans=mid;
                 high=mid-1;
             }else{
                 low=mid+1;
             }
         }
-        return low;
+        return ans;
     }
 };
