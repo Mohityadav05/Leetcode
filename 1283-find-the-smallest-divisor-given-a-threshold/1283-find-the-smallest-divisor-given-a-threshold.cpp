@@ -6,22 +6,22 @@ public:
             val += ceil((double)nums[i]/(double)mid);
         }
         if(val<=threshold){
-            return 1;
+            return mid;
         }
-        return 0;
+        return -1;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
-     int low = 1;
-     int high = *max_element(nums.begin(), nums.end());
-     while(low<=high){
-        int mid=low+(high-low)/2;
-        int midN=function(mid,nums,threshold);
-        if(midN==1){
-            high=mid-1;
-        }else{
-            low=mid+1;
+        int low=1;
+        int high=*max_element(nums.begin(),nums.end());
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            int midN=function(mid,nums,threshold);
+            if(midN!=-1){
+                high=mid-1;
+            }else{
+                low=mid+1;
+            }
         }
-     }   
-     return low;
+        return low;
     }
 };
