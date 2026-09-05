@@ -5,13 +5,12 @@ public:
         int high=arr.size()-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int val=arr[mid]-(mid+1);
-            if(val<k){
+            if(arr[mid]-(mid+1)<k){
                 low=mid+1;
             }else{
                 high=mid-1;
             }
         }
-        return low + k;
+        return high+k+1;
     }
 };
