@@ -1,16 +1,19 @@
 class Solution {
 public:
-    int helper(int n,vector<int> &dp){
-        if(n==1 || n==2){
-            return n;
+    int function(int idx,int n,vector<int>& dp){
+        if(idx==0){
+            return 1;
         }
-        if(dp[n]!=-1){
-            return dp[n];
+        if(idx==1) return 1;
+        if(dp[idx]!=-1){
+            return dp[idx];
         }
-        return dp[n]=helper(n-1,dp)+helper(n-2,dp);
+        int way1=function(idx-1,n,dp);
+        int way2=function(idx-2,n,dp);
+        return dp[idx]=way1+way2;
     }
     int climbStairs(int n) {
         vector<int>dp(n+1,-1);
-        return helper(n,dp);
+        return function(n,n,dp);
     }
 };
