@@ -20,25 +20,25 @@ public:
         if(head==NULL){
             return NULL;
         }
-       Node* newhead= new Node(head->val);
-       Node* oldtemp=head->next;
-       Node* newtemp=newhead;
-       unordered_map<Node*,Node*>m;
-       m[head]=newhead;
-       while(oldtemp != NULL){
-        Node* copynode=new Node(oldtemp->val);
-        newtemp->next=copynode;
-        m[oldtemp]=copynode;
-        newtemp=newtemp->next;
-        oldtemp=oldtemp->next;
-       }
-       oldtemp=head;
-       newtemp=newhead;
-       while(oldtemp != NULL){
-        newtemp->random=m[oldtemp->random];
-        oldtemp=oldtemp->next;
-        newtemp=newtemp->next;
-       }
-       return newhead;
+        unordered_map<Node*,Node*>mp;
+        Node* newhead=new Node(head->val);
+        Node* oldtemp=head->next;
+        Node* newtemp=newhead;
+        mp[head]=newhead;
+        while(oldtemp!=NULL){
+            Node* copynode= new Node(oldtemp->val);
+            mp[oldtemp]=copynode;
+            newtemp->next=copynode;
+            oldtemp=oldtemp->next;
+            newtemp=newtemp->next;
+        }
+        oldtemp=head;
+        newtemp=newhead;
+        while(oldtemp != NULL){
+            newtemp->random=mp[oldtemp->random];
+            oldtemp=oldtemp->next;
+            newtemp=newtemp->next;
+        }
+        return newhead;
     }
 };
