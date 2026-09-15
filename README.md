@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Mohityadav05/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohityadav05/Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mohityadav05/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohityadav05/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohityadav05/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mohityadav05/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mohityadav05/Leetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohityadav05/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohityadav05/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mohityadav05/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Mohityadav05/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohityadav05/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mohityadav05/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
