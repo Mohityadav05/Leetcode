@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Mohityadav05/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mohityadav05/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Mohityadav05/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohityadav05/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mohityadav05/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0494-target-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mohityadav05/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohityadav05/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Mohityadav05/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Mohityadav05/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Mohityadav05/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0494-target-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -788,10 +791,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Mohityadav05/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Meet in the Middle
 | Problem Name | Difficulty |
 | ------- | ------- |
