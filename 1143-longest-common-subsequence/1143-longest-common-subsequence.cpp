@@ -10,15 +10,11 @@ public:
         if(dp[i][j] != -1) {
             return dp[i][j];
         }
-
-        // Take
         if(text1[i] == text2[j]) {
             int take = 1 + function(i-1, j-1, text1, text2, dp);
 
             return dp[i][j] = take;
         }
-
-        // Not take
         int not_take1 = function(i-1, j, text1, text2, dp);
         int not_take2 = function(i, j-1, text1, text2, dp);
 
