@@ -26,7 +26,7 @@ public:
 
         vector<vector<int>>dp(n,vector<int>(m,-1));
 
-        function(n-1,m-1,str1,str2,dp);
+        // function(n-1,m-1,str1,str2,dp);
 
         int i=n-1;
         int j=m-1;
