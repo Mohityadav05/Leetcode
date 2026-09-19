@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mohityadav05/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Mohityadav05/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Mohityadav05/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Mohityadav05/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Mohityadav05/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohityadav05/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/Mohityadav05/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0072-edit-distance](https://github.com/Mohityadav05/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Mohityadav05/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Mohityadav05/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Mohityadav05/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
