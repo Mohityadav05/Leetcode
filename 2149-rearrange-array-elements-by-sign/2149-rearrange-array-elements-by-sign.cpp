@@ -4,14 +4,13 @@ public:
         vector<int>ans(nums.size(),0);
         int pos=0;
         int neg=1;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]>0){
-                ans[pos]=nums[i];
+        for(int val:nums){
+            if(val>=0){
+                ans[pos]=val;
                 pos=pos+2;
-            }
-            if(nums[i]<0){
-                ans[neg]=nums[i];
-                neg +=2;
+            }else{
+                ans[neg]=val;
+                neg=neg+2;
             }
         }
         return ans;
