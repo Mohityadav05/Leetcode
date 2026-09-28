@@ -1,27 +1,26 @@
 class Solution {
 public:
-    int function(int mid,vector<int>& nums,int threshold){
+    int function(int mid,vector<int>& nums){
         int val=0;
         for(int i=0;i<nums.size();i++){
-            val += ceil((double)nums[i]/(double)mid);
+            val +=(nums[i]+mid-1)/mid;
         }
-        if(val<=threshold){
-            return mid;
-        }
-        return -1;
+        return val;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int low=1;
         int high=*max_element(nums.begin(),nums.end());
+        int ans=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int midN=function(mid,nums,threshold);
-            if(midN!=-1){
+            int midn=function(mid,nums);
+            if(midn<=threshold){
+                ans=mid;
                 high=mid-1;
             }else{
                 low=mid+1;
             }
         }
-        return low;
+        return ans;
     }
 };
