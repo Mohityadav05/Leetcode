@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Mohityadav05/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Mohityadav05/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0767-reorganize-string](https://github.com/Mohityadav05/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/Mohityadav05/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/Mohityadav05/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Mohityadav05/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mohityadav05/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0767-reorganize-string](https://github.com/Mohityadav05/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohityadav05/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Mohityadav05/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Mohityadav05/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Mohityadav05/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0767-reorganize-string](https://github.com/Mohityadav05/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Mohityadav05/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Mohityadav05/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -430,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohityadav05/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Mohityadav05/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0767-reorganize-string](https://github.com/Mohityadav05/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohityadav05/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohityadav05/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Union-Find
@@ -557,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Mohityadav05/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Mohityadav05/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mohityadav05/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0767-reorganize-string](https://github.com/Mohityadav05/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1405-longest-happy-string](https://github.com/Mohityadav05/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohityadav05/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -576,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohityadav05/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Mohityadav05/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0767-reorganize-string](https://github.com/Mohityadav05/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1405-longest-happy-string](https://github.com/Mohityadav05/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
