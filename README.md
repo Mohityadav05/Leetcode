@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Mohityadav05/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohityadav05/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mohityadav05/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1405-longest-happy-string](https://github.com/Mohityadav05/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohityadav05/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Mohityadav05/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Mohityadav05/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mohityadav05/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1405-longest-happy-string](https://github.com/Mohityadav05/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohityadav05/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mohityadav05/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mohityadav05/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -574,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohityadav05/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Mohityadav05/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1405-longest-happy-string](https://github.com/Mohityadav05/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
