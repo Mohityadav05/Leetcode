@@ -818,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
