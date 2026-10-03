@@ -1,24 +1,24 @@
 class Solution {
 public:
-    void findcombination(int idx,int target,vector<int> &arr,vector<vector<int>> &ans,vector<int> &ds){
-            if(target==0){
-                ans.push_back(ds);
-            return;
+    void function(int idx,vector<int>& candidates, int target,vector<int>& subset,vector<vector<int>>& ans){
+        if(target==0){
+            ans.push_back(subset);
+            return ;
         }
-        for(int i=idx;i<arr.size();i++){
-            if(i>idx && arr[i]==arr[i-1]) continue;
-            if(arr[i]>target) break;
-            ds.push_back(arr[i]);
-            findcombination(i+1,target-arr[i],arr,ans,ds);
-            ds.pop_back();
+        for(int i=idx;i<candidates.size();i++){
+            if(i>idx && candidates[i]==candidates[i-1]) continue;
+            if(candidates[i] > target)
+                break;
+            subset.push_back(candidates[i]);
+            function(i+1,candidates,target-candidates[i],subset,ans);
+            subset.pop_back();
         }
     }
-public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(),candidates.end());
-        vector<int> ds;
+        vector<int>subset;
         vector<vector<int>>ans;
-        findcombination(0,target,candidates,ans,ds);
+        function(0,candidates,target,subset,ans);
         return ans;
     }
 };
