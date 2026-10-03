@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohityadav05/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mohityadav05/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Mohityadav05/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mohityadav05/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Mohityadav05/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohityadav05/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/Mohityadav05/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0067-add-binary](https://github.com/Mohityadav05/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/Mohityadav05/Leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohityadav05/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Mohityadav05/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
@@ -817,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
