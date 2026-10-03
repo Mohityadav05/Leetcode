@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/Mohityadav05/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Mohityadav05/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Mohityadav05/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Mohityadav05/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Mohityadav05/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Mohityadav05/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Mohityadav05/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/Mohityadav05/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/Mohityadav05/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/Mohityadav05/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Mohityadav05/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
