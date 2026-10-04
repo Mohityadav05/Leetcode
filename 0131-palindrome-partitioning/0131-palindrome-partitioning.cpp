@@ -1,28 +1,32 @@
 class Solution {
 public:
-    bool isPalindromic(string s){
-        string s2=s;
-        reverse(s2.begin(),s2.end());
-        return s==s2;
+    bool isPalindrome(int index,int i,string& s){
+        while(index<=i){
+            if(s[index]!=s[i]){
+                return false;
+            }
+            index++;
+            i--;
+        }
+        return true;
     }
-    void getAllparts(string s,vector<vector<string>>& ans,vector<string>& partition){
-        if(s.size()==0){
-            ans.push_back(partition);
+    void function(int index,string& s,vector<string>& subset,vector<vector<string>>& ans){
+        if(index==s.length()){
+            ans.push_back(subset);
             return;
         }
-        for(int i=0;i<s.length();i++){
-            string part=s.substr(0,i+1);
-            if(isPalindromic(part)){
-                partition.push_back(part);
-                getAllparts(s.substr(i+1),ans,partition);
-                partition.pop_back();
+        for(int i=index;i<s.length();i++){
+            if(isPalindrome(index,i,s)){
+                subset.push_back(s.substr(index,i-index+1));
+                function(i+1,s,subset,ans);
+                subset.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
         vector<vector<string>>ans;
-        vector<string>partition;
-        getAllparts(s,ans,partition);
+        vector<string>subset;
+        function(0,s,subset,ans);
         return ans;
     }
 };
