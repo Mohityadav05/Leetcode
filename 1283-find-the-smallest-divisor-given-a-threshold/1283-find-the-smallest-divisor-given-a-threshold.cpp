@@ -3,7 +3,7 @@ public:
     int function(int mid,vector<int>& nums){
         int val=0;
         for(int i=0;i<nums.size();i++){
-            val +=(nums[i]+mid-1)/mid;
+            val +=ceil(double(nums[i])/(double)mid);
         }
         return val;
     }
