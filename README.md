@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Mohityadav05/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Mohityadav05/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mohityadav05/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Mohityadav05/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mohityadav05/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -634,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Mohityadav05/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohityadav05/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Mohityadav05/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Mohityadav05/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Mohityadav05/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Mohityadav05/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohityadav05/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Mohityadav05/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Mohityadav05/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Mohityadav05/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -789,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Mohityadav05/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Mohityadav05/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mohityadav05/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Mohityadav05/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Mohityadav05/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -943,4 +947,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Mohityadav05/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Mohityadav05/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Mohityadav05/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
