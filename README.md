@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Mohityadav05/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mohityadav05/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohityadav05/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Mohityadav05/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1048-longest-string-chain](https://github.com/Mohityadav05/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Mohityadav05/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohityadav05/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Mohityadav05/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Mohityadav05/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mohityadav05/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Mohityadav05/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Mohityadav05/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Mohityadav05/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mohityadav05/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Mohityadav05/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Mohityadav05/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Mohityadav05/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohityadav05/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -633,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohityadav05/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0802-find-eventual-safe-states](https://github.com/Mohityadav05/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1020-number-of-enclaves](https://github.com/Mohityadav05/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Mohityadav05/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -735,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Mohityadav05/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohityadav05/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Mohityadav05/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Mohityadav05/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Mohityadav05/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
