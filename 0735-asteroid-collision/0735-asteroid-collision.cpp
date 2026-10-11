@@ -5,13 +5,13 @@ public:
         for(int i=0;i<asteroids.size();i++){
             if(asteroids[i]>0){
                 st.push(asteroids[i]);
-            }else{
-                while(!st.empty()&& st.top()>0 && st.top()<abs(asteroids[i])){
+            }else if(asteroids[i]<0){
+                while(!st.empty() && st.top()>0 &&st.top()<-(asteroids[i])){
                     st.pop();
                 }
-                if(!st.empty()&&st.top()==abs(asteroids[i])){
+                if(!st.empty() && st.top()==-asteroids[i]){
                     st.pop();
-                }else if(st.empty() || st.top()<0){
+                }else if(st.empty()||st.top()<0){
                     st.push(asteroids[i]);
                 }
             }
