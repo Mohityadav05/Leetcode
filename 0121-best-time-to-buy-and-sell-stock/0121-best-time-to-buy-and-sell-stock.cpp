@@ -7,7 +7,9 @@ public:
             if(prices[i]>bestbuy){
                 profit=max(profit,prices[i]-bestbuy);
             }
-            bestbuy=min(bestbuy,prices[i]);
+            if(prices[i]<bestbuy){
+                bestbuy=prices[i];
+            }
         }
         return profit;
     }
