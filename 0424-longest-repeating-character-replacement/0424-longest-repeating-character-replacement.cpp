@@ -11,10 +11,9 @@ public:
             maxfreq=max(maxfreq,mp[s[r]]);
             if((r-l+1)-maxfreq>k){
                 mp[s[l]]--;
-                maxfreq=0;
                 l++;
-            }
-            if((r-l+1)-maxfreq<=k){
+                maxfreq=0;
+            }if((r-l+1)-maxfreq<=k){
                 maxlen=max(maxlen,r-l+1);
             }
             r++;
