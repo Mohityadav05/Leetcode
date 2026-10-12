@@ -1,71 +1,72 @@
+
 class Solution {
-public:
-
-    int largesthistogram(vector<int>& arr) {
-
-        int n = arr.size();
+private:
+    int largehist(vector<int>& heights) {
+        int n = heights.size();
+        vector<int> pse(n), nse(n);
         stack<int> st;
-        int maxarea = 0;
 
-        for(int i = 0; i <= n; i++) {
-
-            int curr = (i == n) ? 0 : arr[i];
-
-            while(!st.empty() && arr[st.top()] > curr) {
-
-                int height = arr[st.top()];
+        for(int i = 0; i < n; i++) {
+            while(!st.empty() && heights[st.top()] > heights[i]) {
                 st.pop();
-
-                int width;
-
-                if(st.empty())
-                    width = i;
-                else
-                    width = i - st.top() - 1;
-
-                maxarea = max(maxarea, height * width);
             }
 
-            if(i < n)
-                st.push(i);
+            if(st.empty()) pse[i] = -1;
+            else pse[i] = st.top();
+
+            st.push(i);
         }
 
-        return maxarea;
+        while(!st.empty()) st.pop();
+
+        for(int i = n - 1; i >= 0; i--) {
+            while(!st.empty() && heights[st.top()] >= heights[i]) {
+                st.pop();
+            }
+
+            if(st.empty()) nse[i] = n;
+            else nse[i] = st.top();
+
+            st.push(i);
+        }
+
+        int maxi = 0;
+
+        for(int i = 0; i < n; i++) {
+            maxi = max(maxi, heights[i] * (nse[i] - pse[i] - 1));
+        }
+
+        return maxi;
     }
 
+public:
     int maximalRectangle(vector<vector<char>>& matrix) {
-
         int n = matrix.size();
-        int m = matrix[0].size();
+        if(n == 0) return 0;
 
-        // Your prefixsum approach
+        int m = matrix[0].size();
+        if(m == 0) return 0;
+
         vector<vector<int>> prefixsum(n, vector<int>(m, 0));
 
-        for(int i = 0; i < n; i++) {
+        for(int j = 0; j < m; j++) {
+            int sum = 0;
 
-            for(int j = 0; j < m; j++) {
-
+            for(int i = 0; i < n; i++) {
                 if(matrix[i][j] == '1') {
-
-                    if(i == 0)
-                        prefixsum[i][j] = 1;
-                    else
-                        prefixsum[i][j] = prefixsum[i-1][j] + 1;
-
+                    sum++;
+                } else {
+                    sum = 0;
                 }
-                else {
 
-                    prefixsum[i][j] = 0;
-                }
+                prefixsum[i][j] = sum;
             }
         }
 
         int maxarea = 0;
 
         for(int i = 0; i < n; i++) {
-
-            maxarea = max(maxarea, largesthistogram(prefixsum[i]));
-
+            maxarea = max(maxarea, largehist(prefixsum[i]));
         }
 
         return maxarea;
