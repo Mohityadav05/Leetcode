@@ -1,28 +1,29 @@
 class Solution {
-public:
-    int function(int mid,vector<int>& weights){
-        int val=0;
+private:
+    int function(vector<int>& weights,int mid){
         int day=1;
+        int wt=0;
         for(int i=0;i<weights.size();i++){
-            if(val+weights[i]<=mid){
-                val +=weights[i];
+            if(wt+weights[i]<=mid){
+                wt+=weights[i];
             }else{
                 day++;
-                val=weights[i];
+                wt=weights[i];
             }
         }
         return day;
     }
+public:
     int shipWithinDays(vector<int>& weights, int days) {
         int low=*max_element(weights.begin(),weights.end());
         int high=0;
-        for(int val:weights){
-            high +=val;
+        for(int i:weights){
+            high +=i;
         }
-        int ans=-1;
+        int ans=0;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int midn=function(mid,weights);
+            int midn=function(weights,mid);
             if(midn<=days){
                 ans=mid;
                 high=mid-1;
