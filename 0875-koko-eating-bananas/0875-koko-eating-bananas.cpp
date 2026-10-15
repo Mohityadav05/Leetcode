@@ -3,7 +3,7 @@ private:
     long long function(int mid,vector<int>& piles,int h){
         long long time=0;
         for(int i=0;i<piles.size();i++){
-            time +=ceil(double(piles[i])/(double)mid);
+            time +=(piles[i]+mid-1)/mid;
         }
         return time;
     }
