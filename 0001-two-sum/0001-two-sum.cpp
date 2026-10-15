@@ -8,9 +8,9 @@ public:
             if(mp.find(sum)!=mp.end()){
                 ans.push_back(i);
                 ans.push_back(mp[sum]);
-            }else{
-                mp[nums[i]]=i;
+                break;
             }
+            mp[nums[i]]=i;
         }
         return ans;
     }
