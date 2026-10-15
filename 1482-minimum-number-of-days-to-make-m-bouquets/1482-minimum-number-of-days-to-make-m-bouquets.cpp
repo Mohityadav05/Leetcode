@@ -1,24 +1,26 @@
 class Solution {
-public:
+private:
     int function(int mid,vector<int>& bloomDay,int m,int k){
-        int total=0;
         int flower=0;
+        int boque=0;
         for(int i=0;i<bloomDay.size();i++){
             if(bloomDay[i]<=mid){
                 flower++;
                 if(flower==k){
-                    total++;
+                    boque++;;
                     flower=0;
                 }
             }else{
                 flower=0;
             }
         }
-        return total;
+        return boque;
     }
+public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int low=1;
         int high=*max_element(bloomDay.begin(),bloomDay.end());
+        int mid=low+(high-low)/2;
         int ans=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
